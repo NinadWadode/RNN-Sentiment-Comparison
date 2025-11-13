@@ -1,0 +1,10 @@
+{
+  "tp": 9498,
+  "fp": 3889,
+  "tn": 8585,
+  "fn": 3028,
+  "accuracy": 0.72332,
+  "f1_macro": 0.722950496195461,
+  "n_samples": 25000,
+  "run_id": "bilstm-relu-adam-len25-clip1-seed42"
+}

@@ -1,0 +1,10 @@
+{
+  "tp": 11363,
+  "fp": 4796,
+  "tn": 7678,
+  "fn": 1163,
+  "accuracy": 0.76164,
+  "f1_macro": 0.7563461921947288,
+  "n_samples": 25000,
+  "run_id": "lstm-sigmoid-adam-len100-clip1-seed42"
+}

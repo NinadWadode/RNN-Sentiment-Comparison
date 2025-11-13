@@ -1,0 +1,10 @@
+{
+  "tp": 2045,
+  "fp": 1949,
+  "tn": 10525,
+  "fn": 10481,
+  "accuracy": 0.5028,
+  "f1_macro": 0.43815613238795303,
+  "n_samples": 25000,
+  "run_id": "lstm-tanh-sgd-len25-clip1-seed42"
+}

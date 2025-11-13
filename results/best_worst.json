@@ -1,0 +1,34 @@
+{
+  "best": {
+    "model": "bilstm",
+    "activation": "relu",
+    "optimizer": "adam",
+    "seq_len": 100.0,
+    "grad_clipping": 0.0,
+    "accuracy": 0.80384,
+    "f1": 0.8036429316478034,
+    "epoch_time_sec": 3.489166688919068,
+    "epochs": 5.0,
+    "batch_size": 32.0,
+    "lr": 0.001,
+    "dropout": 0.5,
+    "seed": 42.0,
+    "device": "cuda"
+  },
+  "worst": {
+    "model": "rnn",
+    "activation": "relu",
+    "optimizer": "rmsprop",
+    "seq_len": 25.0,
+    "grad_clipping": 0.0,
+    "accuracy": 0.49896,
+    "f1": 0.3328707904146875,
+    "epoch_time_sec": 2.295403337478638,
+    "epochs": 5.0,
+    "batch_size": 32.0,
+    "lr": 0.001,
+    "dropout": 0.5,
+    "seed": 42.0,
+    "device": "cuda"
+  }
+}

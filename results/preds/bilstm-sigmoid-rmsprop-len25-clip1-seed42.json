@@ -1,0 +1,10 @@
+{
+  "tp": 10019,
+  "fp": 5124,
+  "tn": 7350,
+  "fn": 2507,
+  "accuracy": 0.69476,
+  "f1_macro": 0.6912408566528947,
+  "n_samples": 25000,
+  "run_id": "bilstm-sigmoid-rmsprop-len25-clip1-seed42"
+}

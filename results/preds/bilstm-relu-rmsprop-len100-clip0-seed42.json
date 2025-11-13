@@ -1,0 +1,10 @@
+{
+  "tp": 12511,
+  "fp": 12466,
+  "tn": 8,
+  "fn": 15,
+  "accuracy": 0.50076,
+  "f1_macro": 0.3342401323052461,
+  "n_samples": 25000,
+  "run_id": "bilstm-relu-rmsprop-len100-clip0-seed42"
+}

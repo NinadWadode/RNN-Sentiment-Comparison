@@ -1,0 +1,9 @@
+{
+  "vocab_size": 10000,
+  "train_size": 25000,
+  "test_size": 25000,
+  "avg_len": 240.02608,
+  "median_len": 180.0,
+  "p90_len": 468.0,
+  "max_len": 2526
+}

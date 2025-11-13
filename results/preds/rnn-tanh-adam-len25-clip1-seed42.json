@@ -1,0 +1,10 @@
+{
+  "tp": 8888,
+  "fp": 6063,
+  "tn": 6411,
+  "fn": 3638,
+  "accuracy": 0.61196,
+  "f1_macro": 0.6081129045781011,
+  "n_samples": 25000,
+  "run_id": "rnn-tanh-adam-len25-clip1-seed42"
+}

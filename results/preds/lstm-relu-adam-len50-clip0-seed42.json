@@ -1,0 +1,10 @@
+{
+  "tp": 10566,
+  "fp": 4142,
+  "tn": 8332,
+  "fn": 1960,
+  "accuracy": 0.75592,
+  "f1_macro": 0.7539552813506116,
+  "n_samples": 25000,
+  "run_id": "lstm-relu-adam-len50-clip0-seed42"
+}

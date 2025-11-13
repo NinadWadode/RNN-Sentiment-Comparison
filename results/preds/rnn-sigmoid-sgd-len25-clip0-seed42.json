@@ -1,0 +1,10 @@
+{
+  "tp": 1690,
+  "fp": 1740,
+  "tn": 10734,
+  "fn": 10836,
+  "accuracy": 0.49696,
+  "f1_macro": 0.4212141195831717,
+  "n_samples": 25000,
+  "run_id": "rnn-sigmoid-sgd-len25-clip0-seed42"
+}

@@ -1,0 +1,10 @@
+{
+  "tp": 5141,
+  "fp": 5073,
+  "tn": 7401,
+  "fn": 7385,
+  "accuracy": 0.50168,
+  "f1_macro": 0.49757409511715256,
+  "n_samples": 25000,
+  "run_id": "lstm-relu-sgd-len50-clip0-seed42"
+}

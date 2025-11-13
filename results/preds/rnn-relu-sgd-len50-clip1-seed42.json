@@ -1,0 +1,10 @@
+{
+  "tp": 1217,
+  "fp": 1182,
+  "tn": 11292,
+  "fn": 11309,
+  "accuracy": 0.50036,
+  "f1_macro": 0.40347974130572084,
+  "n_samples": 25000,
+  "run_id": "rnn-relu-sgd-len50-clip1-seed42"
+}

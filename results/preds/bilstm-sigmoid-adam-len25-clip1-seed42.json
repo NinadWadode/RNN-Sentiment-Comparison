@@ -1,0 +1,10 @@
+{
+  "tp": 9906,
+  "fp": 4463,
+  "tn": 8011,
+  "fn": 2620,
+  "accuracy": 0.71668,
+  "f1_macro": 0.7150427381580705,
+  "n_samples": 25000,
+  "run_id": "bilstm-sigmoid-adam-len25-clip1-seed42"
+}

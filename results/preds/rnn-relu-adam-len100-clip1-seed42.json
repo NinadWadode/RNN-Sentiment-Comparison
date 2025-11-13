@@ -1,0 +1,10 @@
+{
+  "tp": 5018,
+  "fp": 3943,
+  "tn": 8531,
+  "fn": 7508,
+  "accuracy": 0.54196,
+  "f1_macro": 0.5327334145616845,
+  "n_samples": 25000,
+  "run_id": "rnn-relu-adam-len100-clip1-seed42"
+}

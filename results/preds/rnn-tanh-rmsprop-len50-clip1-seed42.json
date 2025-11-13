@@ -1,0 +1,10 @@
+{
+  "tp": 12516,
+  "fp": 12461,
+  "tn": 13,
+  "fn": 10,
+  "accuracy": 0.50116,
+  "f1_macro": 0.3347735509958115,
+  "n_samples": 25000,
+  "run_id": "rnn-tanh-rmsprop-len50-clip1-seed42"
+}
